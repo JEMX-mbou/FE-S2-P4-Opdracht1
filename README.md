@@ -113,7 +113,7 @@ Ook is het niet helemaal duidelijk waar de grens "onvoldoende" en "voldoende" li
     ![opdr1-13](https://user-images.githubusercontent.com/51715045/167423097-4ea76b9a-1bdd-4444-806d-7917e30c3c16.png)
 
 
-# Extra Opdracht C: Absentie toevoegen (Medium)
+# Extra Opdracht: Absentie toevoegen (Medium)
 **Met Chart.js hebben we nu puur en alleen lijnen toegevoegd, maar het is ook mogelijk om samengestelde grafieken te maken. Dus bijvoorbeeld een staafdiagram met een lijngrafiek. **
 
 1. Zoek de procenten van je absentie op en leg ze vast per periode. 
